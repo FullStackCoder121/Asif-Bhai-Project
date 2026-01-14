@@ -104,7 +104,7 @@ get_header(); ?>
     <!-- Hero Image Section -->
     <div class="section_picture-full-width">
         <div style="-webkit-transform:translate3d(0, 5rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 5rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 5rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 5rem, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="image-wrapper">
-            <div class="image-holder-hero home" style="background-image: url('<?php echo get_theme_mod('hero_image', get_template_directory_uri() . '/assets/images/hero-bg.jpg'); ?>');"></div>
+            <div class="image-holder-hero home" style="background-image: url('https://images.realworks.nl/servlets/images/media.objectmedia/97793692.jpg?portalid=4286&check=api_sha256%3a1dc336a98756a7befacf02a92bdb88c9693747ccdcd43c57d59ef3097d3dd8dc&v=20210324105745&width=2160&height=1440');"></div>
             <div style="height:100%" class="image-cover-hero"></div>
         </div>
     </div>
