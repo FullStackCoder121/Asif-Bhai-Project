@@ -1,0 +1,20 @@
+/*
+Theme Name: TNG Agency
+Theme URI: https://www.tng.agency
+Author: TNG Agency
+Author URI: https://www.tng.agency
+Description: TNG Agency - Digital & Performance Marketing Agency Website Theme
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: tng-agency
+Tags: marketing, agency, business, performance-marketing
+
+This theme is a complete conversion of the TNG Agency website to WordPress.
+All styles are loaded from external CSS files to maintain exact design.
+*/
+
+/* Import Webflow CSS */
+@import url('assets/css/webflow.css');
+
+/* Theme specific overrides can be added below if needed */

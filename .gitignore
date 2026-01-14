@@ -1,0 +1,10 @@
+# Downloaded source files (not needed in Git)
+www.tng.agency/
+TNG Agency/
+
+# WordPress theme ZIP (binary file)
+*.zip
+
+# Temporary files
+*.txt
+*.whtt
